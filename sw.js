@@ -8,7 +8,7 @@ var urlsToCache = [
   '/rooster2/ploeg4.html',
   '/rooster2/index.js',
   '/rooster2/css/style.css',
-  '/rooster2/img/rooster-solid.png',
+  '/rooster2/img/rooster-solid.svg',
   '/rooster2/js/highlightDay.js'
 ];
 
